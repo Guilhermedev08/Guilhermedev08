@@ -1,6 +1,7 @@
 <h1 align="left">🥇Olá, Eu sou o Guilherme Voazem!</h1>
 
 ###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bradley+Hand+ITC&weight=700&size=18&letterSpacing=high&duration=5002&pause=999&color=4916FF&background=00FF8400&center=true&vCenter=true&multiline=true&width=493&height=51&lines=T%C3%A9cnico+em+Desenvolvimento+de+Sistema%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <h6 align="left">Sou um estudante focado em desenvolver e criar soluções escaláveis e de alto impacto. Criando uma experiência sólida no desenvolvimento back-end e mobile, minha missão é transformar ideias inovadoras em produtos de alta performance.<br>📍 Localidade : Sorocaba - São Paulo, Brasil.<br>🎓 Formação : Técnico em Análise e Desenvolvimeto de Sistema - Fiec Indaiatuba.</h6>
 
